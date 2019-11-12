@@ -1,0 +1,6 @@
+#!/bin/bash
+#regrid who 2014 PM25 concentrations to 0.125 raster
+
+
+    cdo remapbil,GRID_MORT_TEST_FASST_7.5x7.5_2010.nc who_concentrations.nc who_concentrations_regrid.nc
+  
