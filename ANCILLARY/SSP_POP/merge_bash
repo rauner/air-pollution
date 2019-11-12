@@ -1,0 +1,25 @@
+#!/bin/bash
+#merge nc to one
+#total
+
+for s in `seq 1 1 5`
+do
+
+      cdo merge 'all_years_urb_rur_total/ssp'$s'_2000_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2010_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2020_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2030_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2040_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2050_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2060_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2070_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2080_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2090_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_2100_regrid.nc' 'all_years_urb_rur_total/ssp'$s'_all_years.nc'
+done
+
+#rural
+
+for s in `seq 1 1 5`
+do
+
+      cdo merge 'all_years_urb_rur_total/ssp'$s'rur_2000_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2010_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2020_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2030_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2040_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2050_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2060_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2070_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2080_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2090_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_2100_regrid.nc' 'all_years_urb_rur_total/ssp'$s'rur_all_years.nc'
+done
+
+#urban
+
+for s in `seq 1 1 5`
+do
+
+      cdo merge 'all_years_urb_rur_total/ssp'$s'urb_2000_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2010_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2020_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2030_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2040_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2050_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2060_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2070_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2080_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2090_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_2100_regrid.nc' 'all_years_urb_rur_total/ssp'$s'urb_all_years.nc'
+done

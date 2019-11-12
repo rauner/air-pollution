@@ -1,0 +1,29 @@
+#!/bin/bash
+#regrid SSP pop nc to GRID_MORT_TEST_FASST_7.5x7.5_2010.nc
+#urban
+for s in `seq 1 1 5`
+do
+
+  for i in `seq 2000 10 2100`
+  do
+    cdo remapbil,GRID_MORT_TEST_FASST_7.5x7.5_2010.nc ssp$s'_NetCDF/urban/NetCDF/ssp'$s'urb'$i.nc 'all_years_urb_rur_total/'ssp$s'urb_'$i'_regrid.nc'
+  done
+ done
+#rural
+for s in `seq 1 1 5`
+do
+
+  for i in `seq 2000 10 2100`
+  do
+    cdo remapbil,GRID_MORT_TEST_FASST_7.5x7.5_2010.nc ssp$s'_NetCDF/rural/NetCDF/ssp'$s'rur'$i.nc 'all_years_urb_rur_total/'ssp$s'rur_'$i'_regrid.nc'
+  done
+ done
+#total
+ for s in `seq 1 1 5`
+do
+
+  for i in `seq 2000 10 2100`
+  do
+    cdo remapbil,GRID_MORT_TEST_FASST_7.5x7.5_2010.nc ssp$s'_NetCDF/total/NetCDF/ssp'$s'_'$i.nc 'all_years_urb_rur_total/'ssp$s'_'$i'_regrid.nc'
+  done
+ done
