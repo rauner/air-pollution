@@ -1,0 +1,238 @@
+iso_code,fasst_reg_id,iso_country_name,fasst_reg_name
+AUT,1,Austria,AUT
+SVN,1,Slovenia,AUT
+LIE,1,Liechtenstein,AUT
+CHE,2,Switzerland,CHE
+BEL,3,Belgium,BLX
+LUX,3,Luxembourg,BLX
+NLD,3,Netherlands,BLX
+ESP,4,Spain,ESP
+PRT,4,Portugal,ESP
+GIB,4,Gibraltar,ESP
+FIN,5,Finland,FIN
+FRA,6,France,FRA
+AND,6,Andorra,FRA
+GBR,7,United Kingdom,GBR
+IRL,7,Ireland,GBR
+GGY,7,Guernsey,GBR
+IMN,7,Isle of Man,GBR
+JEY,7,Jersey,GBR
+GRC,8,Greece,GRC
+CYP,8,Cyprus,GRC
+ITA,9,Italy,ITA
+VAT,9,Holy See,ITA
+SMR,9,San Marino,ITA
+MCO,9,Monaco,ITA
+MLT,9,Malta,ITA
+DEU,10,Germany,RFA
+SWE,11,Sweden,SWE
+DNK,11,Denmark,SWE
+FRO,11,Faeroe Islands,SWE
+TUR,12,Turkey,TUR
+NOR,13,Norway,NOR
+ISL,13,Iceland,NOR
+SJM,13,Svalbard,NOR
+BGR,14,Bulgaria,BGR
+HUN,15,Hungary,HUN
+POL,16,Poland,POL
+EST,16,Estonia,POL
+LVA,16,Latvia,POL
+LTU,16,Lithuania,POL
+SCG,17,Serbia and Montenegr,RCEU
+MKD,17,Macedonia,RCEU
+HRV,17,Croatia,RCEU
+BIH,17,Bosnia-Herzegovina,RCEU
+ALB,17,Albania,RCEU
+CZE,18,Czech Republic,RCZ
+SVK,18,Slovakia,RCZ
+ROU,19,Romania,ROM
+ISR,20,Israel,MEME
+JOR,20,Jordan,MEME
+PSE,20,Occupied Palestinian,MEME
+LBN,20,Lebanon,MEME
+SYR,20,Syrian Arab Republic,MEME
+MAR,21,Morocco (includes We,NOA
+DZA,21,Algeria,NOA
+ESH,21,Western Sahara,NOA
+TUN,21,Tunisia,NOA
+LBY,21,Libyan Arab Jamahiri,NOA
+EGY,22,Egypt,EGY
+BHR,23,Bahrain,GOLF
+IRQ,23,Iraq,GOLF
+KWT,23,Kuwait,GOLF
+OMN,23,Oman,GOLF
+QAT,23,Qatar,GOLF
+SAU,23,Saudi Arabia,GOLF
+ARE,23,United Arab Emirates,GOLF
+YEM,23,Yemen,GOLF
+IRN,23,Iran,GOLF
+COG,24,Congo,WAF
+CNQ,24,,WAF
+GAB,24,Gabon,WAF
+GIN,24,Guinea,WAF
+CMR,24,Cameroon,WAF
+NGA,24,Nigeria,WAF
+NER,24,Niger,WAF
+MLI,24,Mali,WAF
+BEN,24,Benin,WAF
+GHA,24,Ghana,WAF
+BFA,24,Burkina Faso,WAF
+CIV,24,Ivory Coast,WAF
+SEN,24,Senegal,WAF
+GMB,24,Gambia,WAF
+GNB,24,Guinea-Bissau,WAF
+SLE,24,Sierra Leone,WAF
+LBR,24,Liberia,WAF
+STP,24,Sao Tome and Princip,WAF
+CPV,24,Cape Verde,WAF
+SHN,24,Saint Helena,WAF
+TGO,24,Togo,WAF
+GNQ,24,Equatorial Guinea,WAF
+MRT,24,Mauritania,WAF
+CAF,25,Central African Repu,EAF
+TCD,25,Chad,EAF
+SDN,25,Sudan,EAF
+ETH,25,Ethiopia,EAF
+SOM,25,Somalia,EAF
+KEN,25,Kenya,EAF
+UGA,25,Uganda,EAF
+COD,25,"Congo, Democratic Re",EAF
+RWA,25,Rwanda,EAF
+TZA,25,United Rep. of Tanza,EAF
+MDG,25,Madagascar,EAF
+BID,25,,EAF
+ERI,25,Eritrea,EAF
+DJI,25,Djibouti,EAF
+COM,25,Comoros,EAF
+BDI,25,Burundi,EAF
+MUS,25,Mauritius,EAF
+REU,25,Reunion,EAF
+SYC,25,Seychelles,EAF
+AGO,26,Angola,SAF
+NAM,26,Namibia,SAF
+ZMB,26,Zambia,SAF
+BWA,26,Botswana,SAF
+ZWE,26,Zimbabwe,SAF
+MOZ,26,Mozambique,SAF
+MWI,26,Malawi,SAF
+MYT,26,Mayotte,SAF
+ZAF,27,South Africa,RSA
+SWZ,27,Swaziland,RSA
+LSO,27,Lesotho,RSA
+KAZ,28,Kazakhstan,KAZ
+KGZ,29,Kyrgyz Republic,RIS
+TKM,29,Turkmenistan,RIS
+UZB,29,Uzbekistan,RIS
+TJK,29,Tajikistan,RIS
+RUS,30,Russia,RUS
+ARM,30,Armenia,RUS
+GEO,30,Georgia,RUS
+AZE,30,Azerbaijan,RUS
+RUE,31,Russia East of Ural,RUE
+BLR,32,Belarus,UKR
+MDA,32,Republic of Moldova,UKR
+UKR,32,Ukraine,UKR
+KOR,33,Korea,COR
+JPN,34,Japan,JPN
+AUS,35,Australia,AUS
+NZL,36,New Zealand,NZL
+FJI,37,Fiji,PAC
+NCL,37,New Caledonia,PAC
+SLB,37,Solomon Islands,PAC
+VUT,37,Vanuatu,PAC
+FSM,37,Federated State of M,PAC
+GUM,37,Guam,PAC
+KIR,37,Kiribati,PAC
+MHL,37,Marshall Islands,PAC
+NRU,37,Nauru,PAC
+MNP,37,Northern Mariana Isl,PAC
+PLW,37,Palau,PAC
+NFK,37,Norfolk Island,PAC
+TKL,37,Tokelau,PAC
+ASM,37,American Samoa,PAC
+COK,37,Cook Islands,PAC
+PYF,37,French Polynesia,PAC
+NIU,37,Niue,PAC
+PCN,37,Pitcairn,PAC
+TON,37,Tonga,PAC
+TUV,37,Tuvalu,PAC
+WLF,37,Wallis and Futuna,PAC
+WSM,37,Western Samoa,PAC
+PNG,37,Papua New Guinea,PAC
+MNG,38,Mongolia,MON
+PRK,38,"Korea, Dem. People's",MON
+CHN,39,China,CHN
+HKG,39,Hong Kong,CHN
+MAC,39,Macao,CHN
+TWN,40,Taiwan,TWN
+AFG,41,Afghanistan,RSAS
+BGD,41,Bangladesh,RSAS
+BTN,41,Bhutan,RSAS
+NPL,41,Nepal,RSAS
+PAK,41,Pakistan,RSAS
+IND,42,India,NDE
+LKA,42,Sri Lanka,NDE
+MDV,42,Maldives,NDE
+IDN,43,Indonesia,IDN
+TLS,43,East Timor,IDN
+THA,44,Thailand,THA
+MYS,45,Malaysia,MYS
+SGP,45,Singapore,MYS
+BRN,45,Brunei Darussalam,MYS
+PHL,46,Philippines,PHL
+VNM,47,Viet Nam,VNM
+KHM,48,Cambodia,RSEA
+LAO,48,Lao People's Democra,RSEA
+MMR,48,Myanmar,RSEA
+CAN,49,Canada,CAN
+GRL,49,Greenland,CAN
+USA,50,United States of Ame,USA
+SPM,50,Saint Pierre and Miq,USA
+BMU,50,Bermuda,USA
+BRA,51,Brazil,BRA
+MEX,52,Mexico,MEX
+PAN,53,Panama,RCAM
+NIC,53,Nicaragua,RCAM
+HND,53,Honduras,RCAM
+GTM,53,Guatemala,RCAM
+SLV,53,El Salvador,RCAM
+ANT,53,Netherland Antilles,RCAM
+KNA,53,Saint Kitts and Nevi,RCAM
+LCA,53,Saint Lucia,RCAM
+VCT,53,Saint Vincent,RCAM
+TTO,53,Trinidad and Tobago,RCAM
+TCA,53,Turks and Caicos Isl,RCAM
+VIR,53,United States Virgin,RCAM
+BLZ,53,Belize,RCAM
+AIA,53,Anguilla,RCAM
+ATG,53,Antigua and Barbuda,RCAM
+ABW,53,Aruba,RCAM
+BHS,53,Bahamas,RCAM
+BRB,53,Barbados,RCAM
+VGB,53,British Virgin Islan,RCAM
+CYM,53,Cayman Islands,RCAM
+DMA,53,Commonwealth of Domi,RCAM
+CUB,53,Cuba,RCAM
+DOM,53,Dominican Republic,RCAM
+GRD,53,Grenada,RCAM
+GLP,53,Guadeloupe,RCAM
+HTI,53,Haiti,RCAM
+JAM,53,Jamaica,RCAM
+MTQ,53,Martinique,RCAM
+MSR,53,Montserrat,RCAM
+PRI,53,Puerto Rico,RCAM
+CRI,53,Costa Rica,RCAM
+CHL,54,Chile,CHL
+ARG,55,Argentina,ARG
+FLK,55,Falkland Islands,ARG
+URY,55,Uruguay,ARG
+BOL,56,Bolivia,RSAM
+COL,56,Colombia,RSAM
+ECU,56,Ecuador,RSAM
+GUF,56,French Guiana,RSAM
+GUY,56,Guyana,RSAM
+PAR,56,,RSAM
+PER,56,Peru,RSAM
+SUR,56,Suriname,RSAM
+VEN,56,Venezuela,RSAM
+PRY,56,Paraguay,RSAM

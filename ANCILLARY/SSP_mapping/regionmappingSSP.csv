@@ -1,0 +1,250 @@
+X;CountryCode;RegionCode
+Aruba;ABW;LAM
+Afghanistan;AFG;ASIA
+Angola;AGO;MAF
+Anguilla;AIA;LAM
+Aland Islands;ALA;OECD
+Albania;ALB;OECD
+Andorra;AND;OECD
+United Arab Emirates;ARE;MAF
+Argentina;ARG;LAM
+Armenia;ARM;REF
+American Samoa;ASM;ASIA
+Antarctica;ATA;LAM
+French Southern Territories;ATF;ASIA
+Antigua and Barbuda;ATG;LAM
+Australia;AUS;OECD
+Austria;AUT;OECD
+Azerbaijan;AZE;REF
+Burundi;BDI;MAF
+Belgium;BEL;OECD
+Benin;BEN;MAF
+Bonaire, Sint Eustatius and Saba;BES;LAM
+Burkina Faso;BFA;MAF
+Bangladesh;BGD;ASIA
+Bulgaria;BGR;OECD
+Bahrain;BHR;MAF
+Bahamas;BHS;LAM
+Bosnia and Herzegovina;BIH;OECD
+Saint Barthelemy;BLM;LAM
+Belarus;BLR;REF
+Belize;BLZ;LAM
+Bermuda;BMU;LAM
+Bolivia, Plurinational State of;BOL;LAM
+Brazil;BRA;LAM
+Barbados;BRB;LAM
+Brunei Darussalam;BRN;ASIA
+Bhutan;BTN;ASIA
+Bouvet Island;BVT;LAM
+Botswana;BWA;MAF
+Central African Republic;CAF;MAF
+Canada;CAN;OECD
+Cocos (Keeling) Islands;CCK;ASIA
+China;CHN;ASIA
+Switzerland;CHE;OECD
+Chile;CHL;LAM
+Cote d Ivoire;CIV;MAF
+Cameroon;CMR;MAF
+Congo, the Democratic Republic of the;COD;MAF
+Congo;COG;MAF
+Cook Islands;COK;ASIA
+Colombia;COL;LAM
+Comoros;COM;MAF
+Cape Verde;CPV;MAF
+Costa Rica;CRI;LAM
+Cuba;CUB;LAM
+Curacao;CUW;LAM
+Christmas Island;CXR;ASIA
+Cayman Islands;CYM;LAM
+Cyprus;CYP;OECD
+Czech Republic;CZE;OECD
+Germany;DEU;OECD
+Djibouti;DJI;MAF
+Dominica;DMA;LAM
+Denmark;DNK;OECD
+Dominican Republic;DOM;LAM
+Algeria;DZA;MAF
+Ecuador;ECU;LAM
+Egypt;EGY;MAF
+Eritrea;ERI;MAF
+Western Sahara;ESH;MAF
+Spain;ESP;OECD
+Estonia;EST;OECD
+Ethiopia;ETH;MAF
+Finland;FIN;OECD
+Fiji;FJI;ASIA
+Falkland Islands (Malvinas);FLK;LAM
+France;FRA;OECD
+Faroe Islands;FRO;OECD
+Micronesia, Federated States of;FSM;ASIA
+Gabon;GAB;MAF
+United Kingdom;GBR;OECD
+Georgia;GEO;REF
+Guernsey;GGY;OECD
+Ghana;GHA;MAF
+Gibraltar;GIB;OECD
+Guinea;GIN;MAF
+Guadeloupe;GLP;LAM
+Gambia;GMB;MAF
+Guinea-Bissau;GNB;MAF
+Equatorial Guinea;GNQ;MAF
+Greece;GRC;OECD
+Grenada;GRD;LAM
+Greenland;GRL;OECD
+Guatemala;GTM;LAM
+French Guiana;GUF;LAM
+Guam;GUM;ASIA
+Guyana;GUY;LAM
+Hong Kong;HKG;ASIA
+Heard Island and McDonald Islands;HMD;OECD
+Honduras;HND;LAM
+Croatia;HRV;OECD
+Haiti;HTI;LAM
+Hungary;HUN;OECD
+Indonesia;IDN;ASIA
+Isle of Man;IMN;OECD
+India;IND;ASIA
+British Indian Ocean Territory;IOT;ASIA
+Ireland;IRL;OECD
+Iran, Islamic Republic of;IRN;MAF
+Iraq;IRQ;MAF
+Iceland;ISL;OECD
+Israel;ISR;MAF
+Italy;ITA;OECD
+Jamaica;JAM;LAM
+Jersey;JEY;OECD
+Jordan;JOR;MAF
+Japan;JPN;OECD
+Kazakhstan;KAZ;REF
+Kenya;KEN;MAF
+Kyrgyzstan;KGZ;REF
+Cambodia;KHM;ASIA
+Kiribati;KIR;ASIA
+Saint Kitts and Nevis;KNA;LAM
+Korea, Republic of;KOR;ASIA
+Kuwait;KWT;MAF
+Lao People's Democratic Republic;LAO;ASIA
+Lebanon;LBN;MAF
+Liberia;LBR;MAF
+Libya;LBY;MAF
+Saint Lucia;LCA;LAM
+Liechtenstein;LIE;OECD
+Sri Lanka;LKA;ASIA
+Lesotho;LSO;MAF
+Lithuania;LTU;OECD
+Luxembourg;LUX;OECD
+Latvia;LVA;OECD
+Macao;MAC;ASIA
+Saint Martin (French part);MAF;LAM
+Morocco;MAR;MAF
+Monaco;MCO;OECD
+Moldova, Republic of;MDA;REF
+Madagascar;MDG;MAF
+Maldives;MDV;ASIA
+Mexico;MEX;LAM
+Marshall Islands;MHL;ASIA
+Macedonia, the former Yugoslav Republic of;MKD;OECD
+Mali;MLI;MAF
+Malta;MLT;OECD
+Myanmar;MMR;ASIA
+Montenegro;MNE;OECD
+Mongolia;MNG;ASIA
+Northern Mariana Islands;MNP;ASIA
+Mozambique;MOZ;MAF
+Mauritania;MRT;MAF
+Montserrat;MSR;LAM
+Martinique;MTQ;LAM
+Mauritius;MUS;MAF
+Malawi;MWI;MAF
+Malaysia;MYS;ASIA
+Mayotte;MYT;MAF
+Namibia;NAM;MAF
+New Caledonia;NCL;ASIA
+Niger;NER;MAF
+Norfolk Island;NFK;ASIA
+Nigeria;NGA;MAF
+Nicaragua;NIC;LAM
+Niue;NIU;ASIA
+Netherlands;NLD;OECD
+Norway;NOR;OECD
+Nepal;NPL;ASIA
+Nauru;NRU;ASIA
+New Zealand;NZL;OECD
+Oman;OMN;MAF
+Pakistan;PAK;ASIA
+Panama;PAN;LAM
+Pitcairn;PCN;ASIA
+Peru;PER;LAM
+Philippines;PHL;ASIA
+Palau;PLW;ASIA
+Papua New Guinea;PNG;ASIA
+Poland;POL;OECD
+Puerto Rico;PRI;LAM
+Korea, Democratic People's Republic of;PRK;ASIA
+Portugal;PRT;OECD
+Paraguay;PRY;LAM
+Palestine, State of;PSE;MAF
+French Polynesia;PYF;ASIA
+Qatar;QAT;MAF
+Reunion;REU;MAF
+Romania;ROU;OECD
+Russian Federation;RUS;REF
+Rwanda;RWA;MAF
+Saudi Arabia;SAU;MAF
+Sudan;SDN;MAF
+Senegal;SEN;MAF
+Singapore;SGP;ASIA
+South Georgia and the South Sandwich Islands;SGS;LAM
+Saint Helena, Ascension and Tristan da Cunha;SHN;MAF
+Svalbard and Jan Mayen;SJM;OECD
+Solomon Islands;SLB;ASIA
+Sierra Leone;SLE;MAF
+El Salvador;SLV;LAM
+San Marino;SMR;OECD
+Somalia;SOM;MAF
+Saint Pierre and Miquelon;SPM;OECD
+Serbia;SRB;OECD
+South Sudan;SSD;MAF
+Sao Tome and Principe;STP;MAF
+Suriname;SUR;LAM
+Slovakia;SVK;OECD
+Slovenia;SVN;OECD
+Sweden;SWE;OECD
+Swaziland;SWZ;MAF
+Sint Maarten (Dutch part);SXM;LAM
+Seychelles;SYC;MAF
+Syrian Arab Republic;SYR;MAF
+Turks and Caicos Islands;TCA;LAM
+CHNd;TCD;MAF
+Togo;TGO;MAF
+Thailand;THA;ASIA
+Tajikistan;TJK;REF
+Tokelau;TKL;ASIA
+Turkmenistan;TKM;REF
+Timor-Leste;TLS;ASIA
+Tonga;TON;ASIA
+Trinidad and Tobago;TTO;LAM
+Tunisia;TUN;MAF
+Turkey;TUR;OECD
+Tuvalu;TUV;ASIA
+Taiwan, Province of China;TWN;ASIA
+Tanzania, United Republic of;TZA;MAF
+Uganda;UGA;MAF
+Ukraine;UKR;REF
+United States Minor Outlying Islands;UMI;ASIA
+Uruguay;URY;LAM
+United States;USA;OECD
+Uzbekistan;UZB;REF
+Holy See (Vatican City State);VAT;OECD
+Saint Vincent and the Grenadines;VCT;LAM
+Venezuela, Bolivarian Republic of;VEN;LAM
+Virgin Islands, British;VGB;LAM
+Virgin Islands, U.S.;VIR;LAM
+Viet Nam;VNM;ASIA
+Vanuatu;VUT;ASIA
+Wallis and Futuna;WLF;ASIA
+Samoa;WSM;ASIA
+Yemen;YEM;MAF
+South Africa;ZAF;MAF
+Zambia;ZMB;MAF
+Zimbabwe;ZWE;MAF
